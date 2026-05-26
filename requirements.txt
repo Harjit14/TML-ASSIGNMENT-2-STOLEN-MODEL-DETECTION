@@ -1,0 +1,7 @@
+torch
+torchvision
+safetensors
+huggingface_hub
+pandas
+numpy
+requests
